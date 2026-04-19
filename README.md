@@ -3,6 +3,8 @@
 A premium, modern, and ultra-optimized Loading Screen for advanced FiveM servers. 
 Created by server creators for server creators, it was designed to deliver a premium visual experience without impacting server or client performance.
 
+![Home Page](screenshots/1.png)
+
 ## ✨ Core Features
 
 * ⚡ **Extreme Performance (0.00ms):** No active loops on the client or server side. UI animations utilize hardware acceleration (GPU) to prevent FPS drops during server loading.
@@ -11,6 +13,18 @@ Created by server creators for server creators, it was designed to deliver a pre
 * 🎵 **Advanced Music Player:** Built-in music playback system with a volume slider, perfect 144Hz UI sync, and cache memory (saves the player's preferred volume for future sessions).
 * 📱 **Interactive Panels:** Full modules for Changelog (Updates), Rules (with a live search bar), Staff Team (with 3D cards and carousel), and interactive Keybinds.
 * 🎥 **Native Video Backgrounds:** Perfectly optimized to prevent lag. Supports both local files (.mp4/.webm) and direct cloud hosting links (e.g., Fivemanage).
+---
+
+## 📸 Screenshots
+
+### Updates & Team
+![Updates Panel](screenshots/2.png)
+![Team Panel](screenshots/3.png)
+
+### Rules & Keybinds
+![Rules Panel](screenshots/4.png)
+![Keybinds Panel](screenshots/5.png)
+
 ---
 
 ## 🛠️ Installation
